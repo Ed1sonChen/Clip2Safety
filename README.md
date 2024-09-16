@@ -8,3 +8,13 @@ This is the official implementation of paper "Vision Language Model for Interpre
 > Department of Computer Science, University of California Irvine 
 >
 ![mdoel](Clip2Safety\Figures\model.png)
+
+## Citation
+```
+@article{chen2024vision,
+  title={Vision Language Model for Interpretable and Fine-grained Detection of Safety Compliance in Diverse Workplaces},
+  author={Chen, Zhiling and Chen, Hanning and Imani, Mohsen and Chen, Ruimin and Imani, Farhad},
+  journal={arXiv preprint arXiv:2408.07146},
+  year={2024}
+}
+```
