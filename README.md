@@ -7,4 +7,4 @@ This is the official implementation of paper "Vision Language Model for Interpre
 > 
 > Department of Computer Science, University of California Irvine 
 >
-![ralf_figure](Clip2Safety\Figures\model.pdf)
+![mdoel](Clip2Safety\Figures\model.png)
