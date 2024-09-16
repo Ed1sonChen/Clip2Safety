@@ -9,7 +9,7 @@ This is the official implementation of paper "Vision Language Model for Interpre
 >
 
 <!-- ![mdoel](Clip2Safety\Figures\model.png) -->
-<img src="./Clip2Safety/Figures/model.png" alt="Clip2Safety" style="zoom:100%;" />
+<img src="./Figures/model.png" alt="Clip2Safety" style="zoom:100%;" />
 
 ## Citation
 ```
