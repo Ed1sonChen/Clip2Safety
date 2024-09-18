@@ -2,13 +2,13 @@
 This is the official implementation of paper "Vision Language Model for Interpretable and Fine-grained Detection of Safety Compliance in Diverse Workplaces".
 
 > Zhiling Chen*, Hanning Chen, Mohsen Imani, Ruimin Chen, Farhad Imani.
-> 
-> School of Mechanical, Aerospace, and Manufacturing Engineering, University of Connecticut
-> 
-> Department of Computer Science, University of California Irvine 
 >
+> Paper Link: https://arxiv.org/pdf/2408.07146
 
-<!-- ![mdoel](Clip2Safety\Figures\model.png) -->
+## Overview
+
+<img src="./Figures/introduction.png" alt="Clip2Safety" style="zoom:100%;" />
+
 <img src="./Figures/model.png" alt="Clip2Safety" style="zoom:100%;" />
 
 ## Citation
