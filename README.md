@@ -7,9 +7,10 @@ This is the official implementation of paper "Vision Language Model for Interpre
 
 ## Overview
 
-<img src="./Figures/introduction.png" alt="Clip2Safety" style="zoom:80%;" />
+<img src="./Figures/introduction.png" alt="Clip2Safety" style="zoom:60%;" />
 
-<img src="./Figures/model.png" alt="Clip2Safety" style="zoom:80%;" />
+
+<img src="./Figures/model.png" alt="Clip2Safety" style="zoom:60%;" />
 
 ## Citation
 ```
