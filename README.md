@@ -3,7 +3,7 @@ This is the official implementation of paper "Vision Language Model for Interpre
 
 > Zhiling Chen*, Hanning Chen, Mohsen Imani, Ruimin Chen, Farhad Imani.
 >
-> Paper Link: https://arxiv.org/pdf/2408.07146
+> Paper Link: https://www.sciencedirect.com/science/article/abs/pii/S0957417424026368
 
 ## Overview
 
@@ -22,11 +22,14 @@ Clip2Safety resolves these challenges through a two-stage reasoning framework. F
 
 ## Citation
 ```
-@article{chen2024vision,
-  title={Vision Language Model for Interpretable and Fine-grained Detection of Safety Compliance in Diverse Workplaces},
+@article{chen2025vision,
+  title={Vision language model for interpretable and fine-grained detection of safety compliance in diverse workplaces},
   author={Chen, Zhiling and Chen, Hanning and Imani, Mohsen and Chen, Ruimin and Imani, Farhad},
-  journal={arXiv preprint arXiv:2408.07146},
-  year={2024}
+  journal={Expert Systems with Applications},
+  volume={265},
+  pages={125769},
+  year={2025},
+  publisher={Elsevier}
 }
 ```
 
